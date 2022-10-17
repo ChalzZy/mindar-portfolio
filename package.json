@@ -1,0 +1,24 @@
+{
+  "name": "mindar-portfolio",
+  "version": "1.0.0",
+  "description": "MindAR portfolio assignment, part of HiuKim Yuen's web ar course on Udemy.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server --port 10001",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChalzZy/mindar-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChalzZy/mindar-portfolio/issues"
+  },
+  "homepage": "https://github.com/ChalzZy/mindar-portfolio#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
